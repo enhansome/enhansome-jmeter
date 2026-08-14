@@ -1,0 +1,1154 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pymeter",
+          "description": "Simple JMeter performance tests API for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-05T13:18:43Z",
+            "owner": "eldaduzman",
+            "repo": "pymeter",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jmeter-as-code",
+          "description": "Simple wrapper for JMeter to write and execute JMeter tests with Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T01:10:01Z",
+            "owner": "anasoid",
+            "repo": "jmeter-as-code",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jmeter-groovy-dsl",
+          "description": "The Groovy-JMeter project is simple DSL to write JMeter test plans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2024-05-30T12:17:07Z",
+            "owner": "smicyk",
+            "repo": "groovy-jmeter",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "DSL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MeterSphere",
+          "description": "One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T09:42:31Z",
+            "owner": "metersphere",
+            "repo": "metersphere",
+            "stars": 13440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Performance testing framework",
+          "description": "Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-19T18:27:41Z",
+            "owner": "serputko",
+            "repo": "performance-testing-framework",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter Load Testing Center",
+          "description": "Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T13:59:36Z",
+            "owner": "innogames",
+            "repo": "ltc",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "postman2jmx",
+          "description": "Postman collection to JMeter jmx file converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-30T04:52:11Z",
+            "owner": "Loadium",
+            "repo": "postman2jmx",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swaggerjmx",
+          "description": "Tool to convert Swagger UI specification into JMeter test plans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T12:48:37Z",
+            "owner": "Pactortester",
+            "repo": "swaggerjmx",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fiddler2jmeter",
+          "description": "Fiddler or Charles to JMeter script convertor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-15T03:24:16Z",
+            "owner": "dperfly",
+            "repo": "fiddler2jmeter",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "har-convertor-jmeter-tool",
+          "description": "Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-24T10:25:25Z",
+            "owner": "vdaburon",
+            "repo": "har-convertor-jmeter-plugin",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter HAR Importer Plugin",
+          "description": "JMeter plugin to import HTTP Archive (HAR) files into Apache JMeter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T03:43:55Z",
+            "owner": "Qytera-Gmbh",
+            "repo": "JMeterHARImporterPlugin",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "convert-postman-jmeter",
+          "description": "Convert Postman projects to JMeter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-04T15:49:32Z",
+            "owner": "sercheo87",
+            "repo": "convert-postman-jmeter",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Conversion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JMeter Maven Plugin",
+          "description": "Maven plugin that provides the ability to run JMeter tests as part of the build.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-03T19:17:10Z",
+            "owner": "jmeter-maven-plugin",
+            "repo": "jmeter-maven-plugin",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter Gradle Plugin",
+          "description": "Gradle plugin to execute JMeter tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2020-11-25T13:33:36Z",
+            "owner": "jmeter-gradle-plugin",
+            "repo": "jmeter-gradle-plugin",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter Ant Task",
+          "description": "Ant task to automate running JMeter test plans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2017-07-01T19:12:06Z",
+            "owner": "jfifield",
+            "repo": "ant-jmeter",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeamCity Performance Tests Analysis Plugin",
+          "description": "TeamCity plugin to organize simplest performance testing in CI 💀.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-25T12:44:55Z",
+            "owner": "jtorgan",
+            "repo": "jmeter_plugin",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonar JMeter Plugin",
+          "description": "Plugin to collect JMeter performance tests results and display in Sonar dashboard 💀.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-01-15T07:29:56Z",
+            "owner": "SonarQubeCommunity",
+            "repo": "sonar-jmeter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PerfAction for JMeter",
+          "description": "GitHub Action to run performance tests using Apache JMeter and its plugins.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Apache JMeter GitHub Action",
+          "description": "A GitHub Action for carrying out Apache JMeter performance tests.",
+          "children": []
+        }
+      ],
+      "title": "Tools & Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Dockerized",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoMeter",
+              "description": "An automation tool for scaling load tests using distributed slaves, based on JMeter master-slave architecture.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2019-07-08T15:54:47Z",
+                "owner": "intuit",
+                "repo": "autometer",
+                "stars": 60
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Testing in Cloud",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Kubernetes",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jmeter-kubernetes",
+                  "description": "JMeter cluster support for Kubernetes and OpenShift.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2024-04-30T11:41:47Z",
+                    "owner": "kubernauts",
+                    "repo": "jmeter-kubernetes",
+                    "stars": 366
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kangal",
+                  "description": "Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Go",
+                    "last_commit": "2026-07-31T13:21:26Z",
+                    "owner": "hellofresh",
+                    "repo": "kangal",
+                    "stars": 173
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jmeter-k8s-starterkit",
+                  "description": "JMeter Kubernetes starter kit, with live test reporting, JMeter monitoring, Kubernetes monitoring and mock as a service.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2025-04-24T08:10:41Z",
+                    "owner": "Rbillon59",
+                    "repo": "jmeter-k8s-starterkit",
+                    "stars": 93
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "aks_testing_fwk",
+                  "description": "AKS-based scalable JMeter test framework with Grafana reporting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2020-08-24T15:09:30Z",
+                    "owner": "petegrimsdale",
+                    "repo": "aks_testing_fwk",
+                    "stars": 37
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Amazon Web Services",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jmeter-ec2",
+                  "description": "Automates running Apache JMeter on Amazon EC2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2019-06-24T21:29:49Z",
+                    "owner": "oliverlloyd",
+                    "repo": "jmeter-ec2",
+                    "stars": 461
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jmeter-ecs",
+                  "description": "JMeter Docker image for distributed testing on EC2 Container Service (ECS).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2022-11-22T10:18:35Z",
+                    "owner": "smithmicro",
+                    "repo": "jmeter-ecs",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gee",
+                  "description": "A modified version of JMeter-EC2 project.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2014-01-02T21:19:55Z",
+                    "owner": "kowalcj0",
+                    "repo": "gee",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "os-jmeter-aws",
+                  "description": "Run JMeter on multiple Amazon EC2 instances, view results in ELK.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2017-09-18T14:38:47Z",
+                    "owner": "Aptimyze",
+                    "repo": "os-jmeter-aws",
+                    "stars": 1
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Microsoft Azure",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Load Testing Pipeline with JMeter, ACI and Terraform",
+                  "description": "Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "HCL",
+                    "last_commit": "2022-01-20T13:09:32Z",
+                    "owner": "Azure-Samples",
+                    "repo": "jmeter-aci-terraform",
+                    "stars": 119
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Distributed Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JtlReporter",
+          "description": "Online reporting application to generate reports by uploading JTL file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-11T08:12:29Z",
+            "owner": "ludeknovy",
+            "repo": "jtl-reporter",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter Result Analysis Plugin",
+          "description": "Maven plugin that parses JMeter test results and generates detailed reports with charts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-07-01T22:17:30Z",
+            "owner": "afranken",
+            "repo": "jmeter-analysis-maven-plugin",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter Graph Tool Maven Plugin",
+          "description": "Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from JMeter Plugins; usually used along with the JMeter Maven Plugin and set of companion plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-07T12:36:05Z",
+            "owner": "vdaburon",
+            "repo": "jmeter-graph-tool-maven-plugin",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "SLA and KPIs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JMeter SLA Report",
+              "description": "JMeter HTML report generator based on JAMon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2021-04-23T11:16:56Z",
+                "owner": "sgoeschl",
+                "repo": "jmeter-sla-report",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JMeter JUnit Reporter",
+              "description": "Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2025-10-03T23:46:23Z",
+                "owner": "tilln",
+                "repo": "jmeter-junit-reporter",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Tools to validate results from KPIs:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "JUnit KPI Reporter from JMeter Dashboard Statistics JSON File",
+                  "description": "Tool to generate JUnit Report based on custom KPIs applied to the JMeter Dashboard Statistics JSON file.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Java",
+                    "last_commit": "2025-04-25T15:12:04Z",
+                    "owner": "vdaburon",
+                    "repo": "JUnitReportKpiJMeterDashboardStats",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JUnit Report Compare 2 JMeter Report CSV Files",
+                  "description": "Tool to compare 2 load tests using JMeter Report CSV files and create a JUnit Report based on custom KPIs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Java",
+                    "last_commit": "2025-04-25T15:31:13Z",
+                    "owner": "vdaburon",
+                    "repo": "JUnitReportKpiCompareJMeterReportCsv",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JUnit KPI Reporter from JMeter CSV Report",
+                  "description": "Tool to generate JUnit Report based on custom KPIs applied to the JMeter Report CSV file.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Java",
+                    "last_commit": "2025-04-25T15:45:20Z",
+                    "owner": "vdaburon",
+                    "repo": "JUnitReportKpiJMeterReportCsv",
+                    "stars": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Results Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "InfluxDB & Grafana",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "InfluxDB Community Template for JMeter",
+              "description": "Prepackaged InfluxDB configurations that contain everything from dashboards and Telegraf configurations to notifications and alerts in a single manifest file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-15T17:29:23Z",
+                "owner": "influxdata",
+                "repo": "community-templates",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JMeter-InfluxBD-Writer Plugin",
+              "description": "JMeter plugin to write load test data on-the-fly into InfluxDB.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2019-11-20T08:03:35Z",
+                "owner": "NovatecConsulting",
+                "repo": "JMeter-InfluxDB-Writer",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeterReports",
+              "description": "Autogenerated JMeter test-run results reported into Confluence, using Grafana custom dashboards :ru:.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-12-13T09:15:15Z",
+                "owner": "kirillyu",
+                "repo": "jmeterReports",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JMeter Results to InfluxDB",
+              "description": "Read JMeter results from csv file and put into InfluxDB database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2025-04-09T08:07:26Z",
+                "owner": "soprasteria",
+                "repo": "jmeter2influxdb",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ELK Stack",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jmeter-logstash",
+              "description": "Parse JTL result with Docker and Logstash in real time or after test end, and send data to Elasticsearch or InfluxDB, to have a nice dashboard and compare different tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-12T01:06:23Z",
+                "owner": "anasoid",
+                "repo": "jmeter-logstash",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Prometheus",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jmeter-prometheus-plugin",
+              "description": "A Prometheus Listener for Apache JMeter that exposes results in HTTP API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2023-08-03T16:28:46Z",
+                "owner": "johrstrom",
+                "repo": "jmeter-prometheus-plugin",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeter-prometheus-listener",
+              "description": "Apache JMeter Backend Listener implementation for Prometheus metrics exporting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2023-03-01T10:20:47Z",
+                "owner": "kolesnikovm",
+                "repo": "jmeter-prometheus-listener",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ulp-observability-plugin",
+              "description": "Allows you to monitor your JMeter CLI performance test from your favorite browser without having to start JMeter in GUI mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2023-10-13T13:11:32Z",
+                "owner": "ubikingenierie",
+                "repo": "ulp-observability-plugin",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Backend Listener Implementations",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jmeter-influxdb2-listener-plugin",
+              "description": "InfluxDB v2.0 listener plugin for Apache JMeter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-08-09T16:59:17Z",
+                "owner": "mderevyankoaqa",
+                "repo": "jmeter-influxdb2-listener-plugin",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeter-elasticsearch-backend-listener",
+              "description": "JMeter plugin to send test results to an Elasticsearch engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-03-11T01:01:28Z",
+                "owner": "anthonygauthier",
+                "repo": "jmeter-elasticsearch-backend-listener",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeter-backend-listener-kafka",
+              "description": "JMeter plugin to send test results to a Kafka server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2022-05-20T21:01:24Z",
+                "owner": "veeranalyticsltd",
+                "repo": "jmeter-backend-listener-kafka",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeter-backend-azure",
+              "description": "JMeter plugin to send test results to Azure Application Insights.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2023-04-21T14:00:32Z",
+                "owner": "adrianmo",
+                "repo": "jmeter-backend-azure",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeter-datadog-backend-listener",
+              "description": "Send JMeter test results to Datadog.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-07-31T14:29:09Z",
+                "owner": "DataDog",
+                "repo": "jmeter-datadog-backend-listener",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeter-dynatrace-plugin",
+              "description": "A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2022-12-22T14:39:11Z",
+                "owner": "dynatrace-oss",
+                "repo": "jmeter-dynatrace-plugin",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jmeter-backend-newrelic",
+              "description": "A JMeter plugin to send test results to New Relic Metrics API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-04-29T04:56:04Z",
+                "owner": "darrensmithwtc",
+                "repo": "jmeter-backend-newrelic",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "perfana-jmeter-timescaledb",
+              "description": "JMeter backend listener plugin that writes test results directly to TimescaleDB for real-time performance analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-07-21T08:52:16Z",
+                "owner": "perfana",
+                "repo": "perfana-jmeter-timescaledb",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AWS CloudWatch",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jmeter-cw-logs",
+              "description": "CloudFormation template for publishing JMeter test results to AWS CloudWatch Logs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-10-20T04:28:39Z",
+                "owner": "concurrencylabs",
+                "repo": "jmeter-cw-logs",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Custom & Deprecated",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JMeter Dashboard: howto",
+              "description": ", sources - Real-time monitoring of JMeter load test.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2015-06-05T20:30:02Z",
+                "owner": "vincentskooi",
+                "repo": "JMeterDashboard",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JChav",
+              "description": "JMeter Chart History and Visualization library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2015-04-14T21:19:53Z",
+                "owner": "d6y",
+                "repo": "jchav",
+                "stars": 3
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Reporting & Visualization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Performance Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JMeter Dubbo Plugin",
+          "description": "JMeter plugin for Apache Dubbo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-21T06:29:20Z",
+            "owner": "thubbo",
+            "repo": "jmeter-plugins-for-apache-dubbo",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter gRPC Request",
+          "description": "JMeter sampler to send an gRPC request to a server.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-03-29T09:20:40Z",
+            "owner": "zalopay-oss",
+            "repo": "jmeter-grpc-request",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMeter gRPC Plugin",
+          "description": "JMeter plugin supports load test gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-14T22:27:15Z",
+            "owner": "zalopay-oss",
+            "repo": "jmeter-grpc-plugin",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "RPC Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Correlation Recorder Plugin",
+          "description": "JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-17T20:02:29Z",
+            "owner": "Blazemeter",
+            "repo": "CorrelationRecorder",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Siebel CRM Plugin",
+          "description": "JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time ❄️.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-26T22:01:02Z",
+            "owner": "Blazemeter",
+            "repo": "SiebelPlugin",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Correlation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Testing",
+          "description": "A curated list of testing resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T00:22:20Z",
+            "owner": "TheJambo",
+            "repo": "awesome-testing",
+            "stars": 2342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Software Quality",
+          "description": "A list of free software testing and verification resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-01T15:23:18Z",
+            "owner": "ligurio",
+            "repo": "sqa-wiki",
+            "stars": 2321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome k6",
+          "description": "Open-source, developer-centric performance monitoring and load testing solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T19:01:43Z",
+            "owner": "grafana",
+            "repo": "awesome-k6",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Locust",
+          "description": "Open-source scalable load testing framework written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T14:07:31Z",
+            "owner": "aliesbelik",
+            "repo": "awesome-locust",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Gatling",
+          "description": "Open-source load and performance testing framework based on Scala, Akka and Netty.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T11:47:20Z",
+            "owner": "aliesbelik",
+            "repo": "awesome-gatling",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Tsung",
+          "description": "Open-source multi-protocol distributed load testing tool, developed in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T15:10:21Z",
+            "owner": "aliesbelik",
+            "repo": "awesome-tsung",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Load Testing Toolkit",
+          "description": "Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-01T09:53:53Z",
+            "owner": "aliesbelik",
+            "repo": "load-testing-toolkit",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How They Load Test",
+          "description": "A curated collection of publicly available resources on how companies around the world perform load testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T15:09:18Z",
+            "owner": "aliesbelik",
+            "repo": "how-they-load",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "Please take a look at the CONTRIBUTING guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:43:48.027Z",
+    "original_repository": "aliesbelik/awesome-jmeter",
+    "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
+    "enhanced_repository": "enhansome/enhansome-jmeter",
+    "enhanced_repository_description": null,
+    "title": "Awesome JMeter with stars"
+  }
+}
