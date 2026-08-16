@@ -67,7 +67,7 @@
             "last_commit": "2026-08-10T09:42:31Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13444
+            "stars": 13445
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-08-06T00:22:20Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2344
+            "stars": 2347
           }
         },
         {
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:44:03.955Z",
+    "last_updated": "2026-08-16T04:47:28.353Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
     "enhanced_repository": "enhansome/enhansome-jmeter",
