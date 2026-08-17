@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T01:10:01Z",
+            "last_commit": "2026-08-17T00:51:33Z",
             "owner": "anasoid",
             "repo": "jmeter-as-code",
             "stars": 39
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-10T09:42:31Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13445
+            "stars": 13447
           }
         },
         {
@@ -844,7 +844,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-07-21T08:52:16Z",
+                "last_commit": "2026-08-16T19:45:26Z",
                 "owner": "perfana",
                 "repo": "perfana-jmeter-timescaledb",
                 "stars": 1
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-08-06T00:22:20Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2347
+            "stars": 2348
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2023-02-01T15:23:18Z",
             "owner": "ligurio",
             "repo": "sqa-wiki",
-            "stars": 2322
+            "stars": 2321
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-08-09T11:47:20Z",
             "owner": "aliesbelik",
             "repo": "awesome-gatling",
-            "stars": 80
+            "stars": 79
           }
         },
         {
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:47:28.353Z",
+    "last_updated": "2026-08-17T04:55:29.714Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
     "enhanced_repository": "enhansome/enhansome-jmeter",
