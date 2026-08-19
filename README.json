@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T00:51:33Z",
+            "last_commit": "2026-08-18T16:52:41Z",
             "owner": "anasoid",
             "repo": "jmeter-as-code",
             "stars": 39
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-10T09:42:31Z",
             "owner": "metersphere",
             "repo": "metersphere",
-            "stars": 13450
+            "stars": 13452
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-08-06T00:22:20Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2348
+            "stars": 2346
           }
         },
         {
@@ -1052,7 +1052,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-22T19:01:43Z",
+            "last_commit": "2026-08-18T23:40:48Z",
             "owner": "grafana",
             "repo": "awesome-k6",
             "stars": 772
@@ -1117,7 +1117,7 @@
             "last_commit": "2026-07-01T09:53:53Z",
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
-            "stars": 251
+            "stars": 252
           }
         },
         {
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:48:59.748Z",
+    "last_updated": "2026-08-19T04:48:54.121Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
     "enhanced_repository": "enhansome/enhansome-jmeter",
