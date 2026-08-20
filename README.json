@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-10T09:42:31Z",
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13452
+                "stars": 13456
               }
             },
             {
@@ -1085,7 +1085,7 @@
                 "last_commit": "2026-08-06T00:22:20Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2347
+                "stars": 2350
               }
             },
             {
@@ -1115,7 +1115,7 @@
                 "last_commit": "2026-08-18T23:40:48Z",
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 772
+                "stars": 773
               }
             },
             {
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:32.801Z",
+    "last_updated": "2026-08-20T04:49:54.892Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "original_repository_id": 37666064,
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
