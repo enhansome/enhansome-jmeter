@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,336 | 🐛 105 | 📅 2026-08-18 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,701 | 🐛 105 | 📅 2026-08-21 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -73,7 +73,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,516 | 🐛 970 | 🌐 Java | 📅 2026-08-14 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,517 | 🐛 971 | 🌐 Java | 📅 2026-08-14 - Apache JMeter source code repository.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
@@ -129,7 +129,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,457 | 🐛 1 | 🌐 Java | 📅 2026-08-10 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,462 | 🐛 1 | 🌐 Java | 📅 2026-08-10 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 417 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -467,9 +467,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,353 | 🐛 10 | 📅 2026-08-06 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,353 | 🐛 11 | 📅 2026-08-06 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 773 | 🐛 3 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 774 | 🐛 3 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-08-10 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 79 | 🐛 0 | 📅 2026-08-09 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-08-12 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
@@ -485,4 +485,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
