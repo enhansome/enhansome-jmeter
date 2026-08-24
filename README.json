@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-10T09:42:31Z",
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13463
+                "stars": 13464
               }
             },
             {
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:49:38.679Z",
+    "last_updated": "2026-08-24T04:58:29.351Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "original_repository_id": 37666064,
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
