@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,352 | 🐛 106 | 📅 2026-08-21 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,17 +72,17 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,518 | 🐛 971 | 🌐 Java | 📅 2026-08-14 - Apache JMeter source code repository.
+* [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 * [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
 
 ## Distributions
 
+* [JMeter Bootstrap](https://github.com/cfpb/jmeter-bootstrap) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2019-04-22 - Solution to setup JMeter and JMeter plugins, suitable to be used as a submodule.
 * [Download Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi) - Apache JMeter: Official downloads.
 * [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
-* [JMeter Bootstrap](https://github.com/cfpb/jmeter-bootstrap) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2019-04-22 - Solution to setup JMeter and JMeter plugins, suitable to be used as a submodule.
 
 ## Getting Started
 
@@ -129,7 +129,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,464 | 🐛 1 | 🌐 Java | 📅 2026-08-10 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,465 | 🐛 1 | 🌐 Java | 📅 2026-08-10 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 417 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 204 | 🐛 14 | 🌐 Python | 📅 2025-02-12 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -163,8 +163,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Tutorials & Demo
 
 * Jenkins
-  * [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
   * [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2015-04-08
+  * [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
   * [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
   * [Automating JMeter tests with Maven and Jenkins](https://www.codecentric.de/en/knowledge-hub/blog/automating-jmeter-tests-maven-jenkins)
   * How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
@@ -298,10 +298,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Streaming Protocols
 
+* [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin) ⭐ 52 | 🐛 15 | 🌐 Java | 📅 2026-07-14
 * [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 * [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://web.archive.org/web/20210918113142/https://www.realeyes.com/blog/wowza-streaming/)
 * [How to Test Video Streaming with JMeter](https://www.blazemeter.com/blog/video-streaming-testing)
-* [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin) ⭐ 52 | 🐛 15 | 🌐 Java | 📅 2026-07-14
 
 ### Mobile Apps
 
@@ -340,18 +340,18 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Extending JMeter
 
+* [Hello JMeter plugin](https://github.com/Bugazelle/hello-jmeter-plugin) ⭐ 21 | 🐛 1 | 🌐 Java | 📅 2024-04-08 - A brief, clear & fast guide to create your first JMeter plugin.
 * [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
 * [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
 * [How to build a JMeter plugin utilizing Groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 * [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 * [Custom JMeter Samplers and Config Elements](https://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 * [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
-* [Hello JMeter plugin](https://github.com/Bugazelle/hello-jmeter-plugin) ⭐ 21 | 🐛 1 | 🌐 Java | 📅 2024-04-08 - A brief, clear & fast guide to create your first JMeter plugin.
 
 ### IDE Integration
 
-* [IntelliJ IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from IntelliJ IDEA.
 * [JMeter Viewer](https://github.com/anboralabs/intellij-jmeter) ⭐ 6 | 🐛 5 | 🌐 Java | 📅 2026-05-14 - Open JMeter test plans inside IntelliJ IDE.
+* [IntelliJ IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from IntelliJ IDEA.
 * [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
 * [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/)
 
@@ -361,8 +361,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
 * [JEval](https://github.com/QAInsights/JEval) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2020-10-21 - A Python-based utility which evaluates JMeter test plan and provides recommendations and best practices by analyzing each element.
+* [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
 * [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
 * [jmx.js](https://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files 💀.
 
@@ -467,7 +467,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,355 | 🐛 5 | 📅 2026-08-22 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,355 | 🐛 6 | 📅 2026-08-22 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 774 | 🐛 3 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-08-10 - Open-source scalable load testing framework written in Python.

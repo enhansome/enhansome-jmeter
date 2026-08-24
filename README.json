@@ -4,6 +4,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "GitHub Repository",
+          "description": "Apache JMeter source code repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688352,
+            "language": "Java",
+            "last_commit": "2026-08-14T19:33:43Z",
+            "owner": "apache",
+            "repo": "jmeter",
+            "stars": 9518
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JMeter Bootstrap",
+          "description": "Solution to setup JMeter and JMeter plugins, suitable to be used as a submodule.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15610845,
+            "language": "Python",
+            "last_commit": "2019-04-22T15:04:16Z",
+            "owner": "cfpb",
+            "repo": "jmeter-bootstrap",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Distributions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -59,6 +101,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "loadtest",
+              "description": "An R package for load testing using JMeter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199525961,
+                "language": "R",
+                "last_commit": "2020-05-06T16:46:46Z",
+                "owner": "tmobile",
+                "repo": "loadtest",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Packages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MeterSphere",
               "description": "One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.",
               "children": [],
@@ -69,7 +133,7 @@
                 "last_commit": "2026-08-10T09:42:31Z",
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13464
+                "stars": 13465
               }
             },
             {
@@ -291,6 +355,35 @@
           "description": null,
           "node_type": "group",
           "title": "Tools & Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Jenkins",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CI with Jenkins, Git, Maven, Grunt, and JMeter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18425332,
+                    "language": "HTML",
+                    "last_commit": "2015-04-08T16:05:51Z",
+                    "owner": "dzuluagaapigee",
+                    "repo": "apigee-ci-jenkins-git-maven-jmeter",
+                    "stars": 20
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials & Demo"
         }
       ],
       "title": "CI"
@@ -974,6 +1067,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "HLS JMeter Plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177640058,
+                "language": "Java",
+                "last_commit": "2026-07-14T13:01:30Z",
+                "owner": "Blazemeter",
+                "repo": "HLSPlugin",
+                "stars": 52
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Streaming Protocols"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JMeter RTE Plugin",
+              "description": "JMeter RTE (Remote Terminal Emulator protocol) plugin for testing Mainframe applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138763228,
+                "language": "Java",
+                "last_commit": "2025-07-23T05:20:36Z",
+                "owner": "Blazemeter",
+                "repo": "RTEPlugin",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mainframe Environments"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "JMeter Dubbo Plugin",
               "description": "JMeter plugin for Apache Dubbo.",
               "children": [],
@@ -1064,6 +1201,94 @@
           "description": null,
           "node_type": "group",
           "title": "Correlation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hello JMeter plugin",
+              "description": "A brief, clear & fast guide to create your first JMeter plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230807342,
+                "language": "Java",
+                "last_commit": "2024-04-08T03:29:18Z",
+                "owner": "Bugazelle",
+                "repo": "hello-jmeter-plugin",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extending JMeter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JMeter Viewer",
+              "description": "Open JMeter test plans inside IntelliJ IDE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655859693,
+                "language": "Java",
+                "last_commit": "2026-05-14T22:47:18Z",
+                "owner": "anboralabs",
+                "repo": "intellij-jmeter",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE Integration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JEval",
+              "description": "A Python-based utility which evaluates JMeter test plan and provides recommendations and best practices by analyzing each element.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296462047,
+                "language": "Python",
+                "last_commit": "2020-10-21T01:16:20Z",
+                "owner": "QAInsights",
+                "repo": "JEval",
+                "stars": 33
+              }
+            }
+          ],
+          "description": "Alternative editors for JMX files, in addition to standard JMeter GUI and XML editors.",
+          "node_type": "group",
+          "title": "Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hamster",
+              "description": "Swiftly launch your JMeter test plans from Mac menubar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 719390870,
+                "language": "Python",
+                "last_commit": "2024-02-15T21:25:54Z",
+                "owner": "QAInsights",
+                "repo": "hamster",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
         }
       ],
       "title": "Tools"
@@ -1210,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:58:29.351Z",
+    "last_updated": "2026-08-24T14:16:33.568Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "original_repository_id": 37666064,
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
