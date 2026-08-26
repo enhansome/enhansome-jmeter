@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T19:33:43Z",
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9518
+            "stars": 9519
           }
         }
       ],
@@ -71,7 +71,7 @@
                 "archived": false,
                 "id": 295720674,
                 "language": "Java",
-                "last_commit": "2026-08-21T02:32:47Z",
+                "last_commit": "2026-08-25T15:46:57Z",
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
                 "stars": 39
@@ -133,7 +133,7 @@
                 "last_commit": "2026-08-10T09:42:31Z",
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13465
+                "stars": 13470
               }
             },
             {
@@ -1307,10 +1307,10 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-22T20:24:21Z",
+                "last_commit": "2026-08-25T19:20:52Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2356
+                "stars": 2357
               }
             },
             {
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:20.592Z",
+    "last_updated": "2026-08-26T04:52:59.174Z",
     "original_repository": "aliesbelik/awesome-jmeter",
     "original_repository_id": 37666064,
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
