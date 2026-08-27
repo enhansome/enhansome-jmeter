@@ -12,10 +12,10 @@
             "archived": false,
             "id": 688352,
             "language": "Java",
-            "last_commit": "2026-08-14T19:33:43Z",
+            "last_commit": "2026-08-27T11:30:17Z",
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9519
+            "stars": 9518
           }
         }
       ],
@@ -133,7 +133,7 @@
                 "last_commit": "2026-08-10T09:42:31Z",
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13470
+                "stars": 13473
               }
             },
             {
@@ -742,7 +742,7 @@
                     "last_commit": "2023-06-15T17:29:23Z",
                     "owner": "influxdata",
                     "repo": "community-templates",
-                    "stars": 372
+                    "stars": 373
                   }
                 },
                 {
@@ -1310,7 +1310,7 @@
                 "last_commit": "2026-08-25T19:20:52Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2357
+                "stars": 2358
               }
             },
             {
@@ -1435,9 +1435,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:52:59.174Z",
-    "original_repository": "aliesbelik/awesome-jmeter",
-    "original_repository_id": 37666064,
+    "last_updated": "2026-08-27T11:47:17.512Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 37666064,
+      "language": "HTML",
+      "last_commit": "2026-08-01T02:02:30Z",
+      "owner": "aliesbelik",
+      "repo": "awesome-jmeter",
+      "stars": 807
+    },
     "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
     "enhanced_repository": "enhansome/enhansome-jmeter",
     "enhanced_repository_description": null,
