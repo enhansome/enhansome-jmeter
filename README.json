@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T11:30:17Z",
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9518
+            "stars": 9519
           }
         }
       ],
@@ -133,7 +133,7 @@
                 "last_commit": "2026-08-10T09:42:31Z",
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13473
+                "stars": 13474
               }
             },
             {
@@ -1370,7 +1370,7 @@
                 "last_commit": "2026-08-09T11:47:20Z",
                 "owner": "aliesbelik",
                 "repo": "awesome-gatling",
-                "stars": 79
+                "stars": 80
               }
             },
             {
@@ -1435,7 +1435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:17.512Z",
+    "last_updated": "2026-08-27T15:11:54.758Z",
     "original_repository_info": {
       "archived": false,
       "id": 37666064,
