@@ -16,7 +16,8 @@
             "owner": "apache",
             "repo": "jmeter",
             "stars": 9519
-          }
+          },
+          "first_seen": "2026-08-28T16:35:27.972Z"
         }
       ],
       "title": "Official Resources"
@@ -37,7 +38,8 @@
             "owner": "cfpb",
             "repo": "jmeter-bootstrap",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T16:35:27.972Z"
         }
       ],
       "title": "Distributions"
@@ -60,7 +62,8 @@
                 "owner": "eldaduzman",
                 "repo": "pymeter",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -75,7 +78,8 @@
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -90,7 +94,8 @@
                 "owner": "smicyk",
                 "repo": "groovy-jmeter",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -112,7 +117,8 @@
                 "owner": "tmobile",
                 "repo": "loadtest",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -133,8 +139,9 @@
                 "last_commit": "2026-08-10T09:42:31Z",
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13474
-              }
+                "stars": 13478
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "serputko",
                 "repo": "performance-testing-framework",
                 "stars": 417
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -160,11 +168,12 @@
                 "archived": false,
                 "id": 83051347,
                 "language": "Python",
-                "last_commit": "2025-02-12T13:59:36Z",
+                "last_commit": "2026-08-28T12:02:01Z",
                 "owner": "innogames",
                 "repo": "ltc",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -186,7 +195,8 @@
                 "owner": "Loadium",
                 "repo": "postman2jmx",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -201,7 +211,8 @@
                 "owner": "Pactortester",
                 "repo": "swaggerjmx",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -216,7 +227,8 @@
                 "owner": "dperfly",
                 "repo": "fiddler2jmeter",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -231,7 +243,8 @@
                 "owner": "vdaburon",
                 "repo": "har-convertor-jmeter-plugin",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -246,7 +259,8 @@
                 "owner": "Qytera-Gmbh",
                 "repo": "JMeterHARImporterPlugin",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -261,7 +275,8 @@
                 "owner": "sercheo87",
                 "repo": "convert-postman-jmeter",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -289,7 +304,8 @@
                 "owner": "jmeter-maven-plugin",
                 "repo": "jmeter-maven-plugin",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -304,7 +320,8 @@
                 "owner": "jmeter-gradle-plugin",
                 "repo": "jmeter-gradle-plugin",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -319,7 +336,8 @@
                 "owner": "jfifield",
                 "repo": "ant-jmeter",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -334,7 +352,8 @@
                 "owner": "jtorgan",
                 "repo": "jmeter_plugin",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -349,7 +368,8 @@
                 "owner": "SonarQubeCommunity",
                 "repo": "sonar-jmeter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -376,7 +396,8 @@
                     "owner": "dzuluagaapigee",
                     "repo": "apigee-ci-jenkins-git-maven-jmeter",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             }
@@ -409,7 +430,8 @@
                 "owner": "intuit",
                 "repo": "autometer",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ]
         },
@@ -436,7 +458,8 @@
                     "owner": "kubernauts",
                     "repo": "jmeter-kubernetes",
                     "stars": 366
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -451,7 +474,8 @@
                     "owner": "hellofresh",
                     "repo": "kangal",
                     "stars": 173
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -466,7 +490,8 @@
                     "owner": "Rbillon59",
                     "repo": "jmeter-k8s-starterkit",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -481,7 +506,8 @@
                     "owner": "petegrimsdale",
                     "repo": "aks_testing_fwk",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             },
@@ -503,7 +529,8 @@
                     "owner": "oliverlloyd",
                     "repo": "jmeter-ec2",
                     "stars": 461
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -518,7 +545,8 @@
                     "owner": "smithmicro",
                     "repo": "jmeter-ecs",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -533,7 +561,8 @@
                     "owner": "kowalcj0",
                     "repo": "gee",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -548,7 +577,8 @@
                     "owner": "Aptimyze",
                     "repo": "os-jmeter-aws",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             },
@@ -570,7 +600,8 @@
                     "owner": "Azure-Samples",
                     "repo": "jmeter-aci-terraform",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             }
@@ -597,7 +628,8 @@
                 "owner": "ludeknovy",
                 "repo": "jtl-reporter",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -612,7 +644,8 @@
                 "owner": "afranken",
                 "repo": "jmeter-analysis-maven-plugin",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -627,7 +660,8 @@
                 "owner": "vdaburon",
                 "repo": "jmeter-graph-tool-maven-plugin",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "group",
@@ -647,7 +681,8 @@
                     "owner": "sgoeschl",
                     "repo": "jmeter-sla-report",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -662,7 +697,8 @@
                     "owner": "tilln",
                     "repo": "jmeter-junit-reporter",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "group",
@@ -682,7 +718,8 @@
                         "owner": "vdaburon",
                         "repo": "JUnitReportKpiJMeterDashboardStats",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:35:27.972Z"
                     },
                     {
                       "node_type": "item",
@@ -697,7 +734,8 @@
                         "owner": "vdaburon",
                         "repo": "JUnitReportKpiCompareJMeterReportCsv",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:35:27.972Z"
                     },
                     {
                       "node_type": "item",
@@ -712,7 +750,8 @@
                         "owner": "vdaburon",
                         "repo": "JUnitReportKpiJMeterReportCsv",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:35:27.972Z"
                     }
                   ]
                 }
@@ -743,7 +782,8 @@
                     "owner": "influxdata",
                     "repo": "community-templates",
                     "stars": 373
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -758,7 +798,8 @@
                     "owner": "NovatecConsulting",
                     "repo": "JMeter-InfluxDB-Writer",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -773,7 +814,8 @@
                     "owner": "kirillyu",
                     "repo": "jmeterReports",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -788,7 +830,8 @@
                     "owner": "soprasteria",
                     "repo": "jmeter2influxdb",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             },
@@ -810,7 +853,8 @@
                     "owner": "anasoid",
                     "repo": "jmeter-logstash",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             },
@@ -832,7 +876,8 @@
                     "owner": "johrstrom",
                     "repo": "jmeter-prometheus-plugin",
                     "stars": 189
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -847,7 +892,8 @@
                     "owner": "kolesnikovm",
                     "repo": "jmeter-prometheus-listener",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -862,7 +908,8 @@
                     "owner": "ubikingenierie",
                     "repo": "ulp-observability-plugin",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             },
@@ -884,7 +931,8 @@
                     "owner": "mderevyankoaqa",
                     "repo": "jmeter-influxdb2-listener-plugin",
                     "stars": 133
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -899,7 +947,8 @@
                     "owner": "anthonygauthier",
                     "repo": "jmeter-elasticsearch-backend-listener",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -914,7 +963,8 @@
                     "owner": "veeranalyticsltd",
                     "repo": "jmeter-backend-listener-kafka",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -929,7 +979,8 @@
                     "owner": "adrianmo",
                     "repo": "jmeter-backend-azure",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -944,7 +995,8 @@
                     "owner": "DataDog",
                     "repo": "jmeter-datadog-backend-listener",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -959,7 +1011,8 @@
                     "owner": "dynatrace-oss",
                     "repo": "jmeter-dynatrace-plugin",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -974,7 +1027,8 @@
                     "owner": "darrensmithwtc",
                     "repo": "jmeter-backend-newrelic",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -989,7 +1043,8 @@
                     "owner": "perfana",
                     "repo": "perfana-jmeter-timescaledb",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             },
@@ -1011,7 +1066,8 @@
                     "owner": "concurrencylabs",
                     "repo": "jmeter-cw-logs",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             },
@@ -1033,7 +1089,8 @@
                     "owner": "vincentskooi",
                     "repo": "JMeterDashboard",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 },
                 {
                   "node_type": "item",
@@ -1048,7 +1105,8 @@
                     "owner": "d6y",
                     "repo": "jchav",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:35:27.972Z"
                 }
               ]
             }
@@ -1078,7 +1136,8 @@
                 "owner": "Blazemeter",
                 "repo": "HLSPlugin",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1100,7 +1159,8 @@
                 "owner": "Blazemeter",
                 "repo": "RTEPlugin",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1122,7 +1182,8 @@
                 "owner": "thubbo",
                 "repo": "jmeter-plugins-for-apache-dubbo",
                 "stars": 569
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1198,8 @@
                 "owner": "zalopay-oss",
                 "repo": "jmeter-grpc-request",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1152,7 +1214,8 @@
                 "owner": "zalopay-oss",
                 "repo": "jmeter-grpc-plugin",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1180,7 +1243,8 @@
                 "owner": "Blazemeter",
                 "repo": "CorrelationRecorder",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1195,7 +1259,8 @@
                 "owner": "Blazemeter",
                 "repo": "SiebelPlugin",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1217,7 +1282,8 @@
                 "owner": "Bugazelle",
                 "repo": "hello-jmeter-plugin",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1239,7 +1305,8 @@
                 "owner": "anboralabs",
                 "repo": "intellij-jmeter",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1261,7 +1328,8 @@
                 "owner": "QAInsights",
                 "repo": "JEval",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": "Alternative editors for JMX files, in addition to standard JMeter GUI and XML editors.",
@@ -1283,7 +1351,8 @@
                 "owner": "QAInsights",
                 "repo": "hamster",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1311,7 +1380,8 @@
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2358
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1326,7 +1396,8 @@
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
                 "stars": 2320
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1341,7 +1412,8 @@
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 774
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1356,7 +1428,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-locust",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1371,7 +1444,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-gatling",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1386,7 +1460,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-tsung",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1408,7 +1483,8 @@
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             },
             {
               "node_type": "item",
@@ -1423,7 +1499,8 @@
                 "owner": "aliesbelik",
                 "repo": "how-they-load",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T16:35:27.972Z"
             }
           ],
           "description": null,
@@ -1435,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:11:54.758Z",
+    "last_updated": "2026-08-28T16:35:27.972Z",
     "original_repository_info": {
       "archived": false,
       "id": 37666064,
