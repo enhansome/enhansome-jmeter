@@ -104,8 +104,8 @@
                 "id": 295720674,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T17:50:08Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-02T16:03:52Z",
+                "open_issues": 18,
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
                 "stars": 39,
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13497,
+                "stars": 13498,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -273,8 +273,8 @@
                 "id": 83051347,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T14:03:10Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-02T14:55:49Z",
+                "open_issues": 13,
                 "owner": "innogames",
                 "repo": "ltc",
                 "stars": 203,
@@ -1202,7 +1202,7 @@
                     "open_issues": 76,
                     "owner": "influxdata",
                     "repo": "community-templates",
-                    "stars": 374,
+                    "stars": 375,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:27.972Z"
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:44:52.508Z",
+    "last_updated": "2026-09-03T08:54:00.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
