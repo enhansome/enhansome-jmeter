@@ -2011,7 +2011,7 @@
                 "id": 655859693,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-14T22:47:18Z",
+                "last_commit": "2026-09-04T22:00:30Z",
                 "open_issues": 5,
                 "owner": "anboralabs",
                 "repo": "intellij-jmeter",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-03T21:46:11Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-04T10:13:45Z",
+                "open_issues": 8,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2365,
+                "stars": 2366,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:49:12.040Z",
+    "last_updated": "2026-09-05T08:19:23.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
