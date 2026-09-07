@@ -15,11 +15,11 @@
             "id": 688352,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T11:30:17Z",
-            "open_issues": 979,
+            "last_commit": "2026-09-06T16:02:56Z",
+            "open_issues": 976,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9528,
+            "stars": 9529,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13502,
+                "stars": 13508,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -313,7 +313,7 @@
                 "open_issues": 15,
                 "owner": "Loadium",
                 "repo": "postman2jmx",
-                "stars": 190,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:27.972Z"
@@ -2123,10 +2123,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 8,
+                "open_issues": 12,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2366,
+                "stars": 2367,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2186,7 +2186,7 @@
                 "open_issues": 2,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 774,
+                "stars": 775,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:38:16.493Z",
+    "last_updated": "2026-09-07T09:17:08.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
