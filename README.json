@@ -19,7 +19,7 @@
             "open_issues": 976,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9529,
+            "stars": 9530,
             "topics": [
               "java",
               "performance",
@@ -104,7 +104,7 @@
                 "id": 295720674,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T16:03:52Z",
+                "last_commit": "2026-09-08T02:56:34Z",
                 "open_issues": 18,
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13508,
+                "stars": 13511,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -2126,7 +2126,7 @@
                 "open_issues": 12,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2367,
+                "stars": 2369,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2319,
+                "stars": 2320,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2310,11 +2310,11 @@
                 "id": 246082993,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-07-01T09:53:53Z",
+                "last_commit": "2026-09-07T13:18:25Z",
                 "open_issues": 1,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "benchmarking",
                   "ddos",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:17:08.087Z",
+    "last_updated": "2026-09-08T08:50:00.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
