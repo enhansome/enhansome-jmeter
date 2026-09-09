@@ -19,7 +19,7 @@
             "open_issues": 976,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9530,
+            "stars": 9528,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13511,
+                "stars": 13512,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1649,7 +1649,7 @@
                     "id": 1208556589,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T08:33:09Z",
+                    "last_commit": "2026-09-09T03:30:46Z",
                     "open_issues": 0,
                     "owner": "perfana",
                     "repo": "perfana-jmeter-timescaledb",
@@ -2123,10 +2123,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 12,
+                "open_issues": 14,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2369,
+                "stars": 2370,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:50:00.283Z",
+    "last_updated": "2026-09-09T08:56:21.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
@@ -2376,7 +2376,7 @@
       "open_issues": 4,
       "owner": "aliesbelik",
       "repo": "awesome-jmeter",
-      "stars": 806,
+      "stars": 807,
       "topics": [
         "apache-jmeter",
         "awesome",
