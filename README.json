@@ -19,7 +19,7 @@
             "open_issues": 976,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9528,
+            "stars": 9527,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13512,
+                "stars": 13515,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1649,7 +1649,7 @@
                     "id": 1208556589,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T03:30:46Z",
+                    "last_commit": "2026-09-09T09:01:55Z",
                     "open_issues": 0,
                     "owner": "perfana",
                     "repo": "perfana-jmeter-timescaledb",
@@ -2123,10 +2123,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2370,
+                "stars": 2372,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2319,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:56:21.794Z",
+    "last_updated": "2026-09-10T08:55:24.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
