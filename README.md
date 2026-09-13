@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,257 | 🐛 106 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,557 | 🐛 106 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,528 | 🐛 976 | 🌐 Java | 📅 2026-09-12 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,529 | 🐛 976 | 🌐 Java | 📅 2026-09-12 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -467,7 +467,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,372 | 🐛 18 | 📅 2026-09-04 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,373 | 🐛 19 | 📅 2026-09-04 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,319 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 775 | 🐛 2 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-08-10 - Open-source scalable load testing framework written in Python.
@@ -485,4 +485,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
