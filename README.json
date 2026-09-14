@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13516,
+                "stars": 13519,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-13T22:20:18Z",
+                "open_issues": 13,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2373,
+                "stars": 2371,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:30:09.787Z",
+    "last_updated": "2026-09-14T09:48:09.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
