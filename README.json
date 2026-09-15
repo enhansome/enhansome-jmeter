@@ -19,7 +19,7 @@
             "open_issues": 976,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9529,
+            "stars": 9533,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13519,
+                "stars": 13525,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1649,7 +1649,7 @@
                     "id": 1208556589,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T09:01:55Z",
+                    "last_commit": "2026-09-15T08:11:02Z",
                     "open_issues": 0,
                     "owner": "perfana",
                     "repo": "perfana-jmeter-timescaledb",
@@ -1762,7 +1762,7 @@
                 "id": 177640058,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-14T13:01:30Z",
+                "last_commit": "2026-09-14T20:25:28Z",
                 "open_issues": 15,
                 "owner": "Blazemeter",
                 "repo": "HLSPlugin",
@@ -2123,10 +2123,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-13T22:20:18Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2371,
+                "stars": 2372,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:48:09.557Z",
+    "last_updated": "2026-09-15T09:22:47.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
