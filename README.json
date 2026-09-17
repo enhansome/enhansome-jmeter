@@ -200,10 +200,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T06:56:35Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13528,
+                "stars": 13530,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1202,7 +1202,7 @@
                     "open_issues": 76,
                     "owner": "influxdata",
                     "repo": "community-templates",
-                    "stars": 375,
+                    "stars": 376,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:27.972Z"
@@ -1582,7 +1582,7 @@
                     "id": 347917861,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-31T14:29:09Z",
+                    "last_commit": "2026-09-16T20:15:14Z",
                     "open_issues": 9,
                     "owner": "DataDog",
                     "repo": "jmeter-datadog-backend-listener",
@@ -2126,7 +2126,7 @@
                 "open_issues": 16,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2372,
+                "stars": 2373,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2319,
+                "stars": 2318,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:15:51.167Z",
+    "last_updated": "2026-09-17T09:24:24.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
