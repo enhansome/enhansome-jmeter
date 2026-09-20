@@ -19,7 +19,7 @@
             "open_issues": 977,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9536,
+            "stars": 9537,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 1,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13537,
+                "stars": 13540,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -2126,7 +2126,7 @@
                 "open_issues": 17,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2374,
+                "stars": 2375,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:45:57.034Z",
+    "last_updated": "2026-09-20T09:15:09.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
