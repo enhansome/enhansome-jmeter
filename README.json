@@ -19,7 +19,7 @@
             "open_issues": 978,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9552,
+            "stars": 9551,
             "topics": [
               "java",
               "performance",
@@ -611,7 +611,7 @@
                 {
                   "node_type": "item",
                   "title": "CI with Jenkins, Git, Maven, Grunt, and JMeter",
-                  "description": null,
+                  "description": "dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1753,7 +1753,7 @@
             {
               "node_type": "item",
               "title": "HLS JMeter Plugin",
-              "description": null,
+              "description": "Blazemeter/HLSPlugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2183,7 +2183,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-30T14:34:21Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 778,
@@ -2314,7 +2314,7 @@
                 "open_issues": 1,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 254,
+                "stars": 253,
                 "topics": [
                   "benchmarking",
                   "ddos",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:27:55.505Z",
+    "last_updated": "2026-10-03T04:53:14.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
