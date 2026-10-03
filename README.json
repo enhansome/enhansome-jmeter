@@ -2123,7 +2123,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-01T22:12:14Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2380,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:14.236Z",
+    "last_updated": "2026-10-03T09:49:48.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
