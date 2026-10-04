@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T15:38:08Z",
-            "open_issues": 978,
+            "open_issues": 979,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9551,
+            "stars": 9550,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13556,
+                "stars": 13558,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -945,7 +945,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-11T08:12:29Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "ludeknovy",
                 "repo": "jtl-reporter",
                 "stars": 151,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:49:48.582Z",
+    "last_updated": "2026-10-04T10:33:09.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
