@@ -2213,7 +2213,7 @@
                 "id": 304007996,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-01T10:15:22Z",
+                "last_commit": "2026-10-06T11:12:07Z",
                 "open_issues": 1,
                 "owner": "aliesbelik",
                 "repo": "awesome-locust",
@@ -2274,8 +2274,8 @@
                 "id": 54726764,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-01T07:42:33Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T10:56:45Z",
+                "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-tsung",
                 "stars": 23,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:44:17.918Z",
+    "last_updated": "2026-10-06T11:13:23.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
