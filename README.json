@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T15:38:08Z",
-            "open_issues": 979,
+            "open_issues": 978,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9551,
+            "stars": 9552,
             "topics": [
               "java",
               "performance",
@@ -1309,7 +1309,7 @@
                     "id": 418421146,
                     "language": "Shell",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T21:29:43Z",
+                    "last_commit": "2026-10-06T10:13:56Z",
                     "open_issues": 6,
                     "owner": "anasoid",
                     "repo": "jmeter-logstash",
@@ -2123,7 +2123,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-01T22:12:14Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2381,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:24:00.074Z",
+    "last_updated": "2026-10-06T10:44:17.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
