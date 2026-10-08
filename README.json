@@ -19,7 +19,7 @@
             "open_issues": 978,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9552,
+            "stars": 9554,
             "topics": [
               "java",
               "performance",
@@ -104,7 +104,7 @@
                 "id": 295720674,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T20:19:19Z",
+                "last_commit": "2026-10-07T17:35:45Z",
                 "open_issues": 18,
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
@@ -203,7 +203,7 @@
                 "open_issues": 1,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13559,
+                "stars": 13561,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-01T22:12:14Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-08T08:47:08Z",
+                "open_issues": 1,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2381,
+                "stars": 2382,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2319,
+                "stars": 2320,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2186,7 +2186,7 @@
                 "open_issues": 3,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:01:25.661Z",
+    "last_updated": "2026-10-08T11:19:01.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
@@ -2372,8 +2372,8 @@
       "id": 37666064,
       "language": "HTML",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-08-01T02:02:30Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-08T01:07:21Z",
+      "open_issues": 2,
       "owner": "aliesbelik",
       "repo": "awesome-jmeter",
       "stars": 806,
@@ -2388,7 +2388,7 @@
         "performance-testing"
       ]
     },
-    "original_repository_sha": "ea110f64a3b78443dd61734ab1b5f1b1a371378a",
+    "original_repository_sha": "5b3c935a1bd904afbe95daeca3b0905be617d4a6",
     "enhanced_repository": "enhansome/enhansome-jmeter",
     "enhanced_repository_description": null,
     "title": "Awesome JMeter with stars"
