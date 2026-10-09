@@ -702,7 +702,7 @@
                     "open_issues": 22,
                     "owner": "kubernauts",
                     "repo": "jmeter-kubernetes",
-                    "stars": 366,
+                    "stars": 365,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:27.972Z"
@@ -1832,7 +1832,7 @@
                 "open_issues": 20,
                 "owner": "thubbo",
                 "repo": "jmeter-plugins-for-apache-dubbo",
-                "stars": 569,
+                "stars": 568,
                 "topics": [
                   "dubbo",
                   "jmeter",
@@ -2126,7 +2126,7 @@
                 "open_issues": 1,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:19:01.701Z",
+    "last_updated": "2026-10-09T11:17:12.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",

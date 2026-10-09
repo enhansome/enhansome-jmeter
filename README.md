@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,327 | 🐛 106 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,560 | 🐛 106 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -193,7 +193,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   * [JMeter Docker Extension](https://hub.docker.com/extensions/qainsights/jmeter-docker-extension) - Docker extension to run JMeter tests from Docker Desktop.
 * Testing in Cloud
   * Kubernetes
-    * [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) ⭐ 366 | 🐛 22 | 🌐 Shell | 📅 2024-04-30 - JMeter cluster support for Kubernetes and OpenShift.
+    * [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) ⭐ 365 | 🐛 22 | 🌐 Shell | 📅 2024-04-30 - JMeter cluster support for Kubernetes and OpenShift.
     * [kangal](https://github.com/hellofresh/kangal) ⭐ 173 | 🐛 21 | 🌐 Go | 📅 2026-07-31 - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
     * [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) ⭐ 93 | 🐛 0 | 🌐 Shell | 📅 2025-04-24 - JMeter Kubernetes starter kit, with live test reporting, JMeter monitoring, Kubernetes monitoring and mock as a service.
     * [aks\_testing\_fwk](https://github.com/petegrimsdale/aks_testing_fwk) ⭐ 37 | 🐛 1 | 🌐 Shell | 📅 2020-08-24 - AKS-based scalable JMeter test framework with Grafana reporting.
@@ -315,7 +315,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### RPC Frameworks
 
-* [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) ⭐ 569 | 🐛 20 | 🌐 Java | 📅 2023-09-21 - JMeter plugin for Apache Dubbo.
+* [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) ⭐ 568 | 🐛 20 | 🌐 Java | 📅 2023-09-21 - JMeter plugin for Apache Dubbo.
 * [JMeter gRPC Request](https://github.com/zalopay-oss/jmeter-grpc-request) ⚠️ Archived - JMeter sampler to send an gRPC request to a server.
 * [JMeter gRPC Plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) ⭐ 44 | 🐛 12 | 🌐 Java | 📅 2023-06-14 - JMeter plugin supports load test gRPC.
 
@@ -468,7 +468,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,382 | 🐛 1 | 📅 2026-10-08 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,383 | 🐛 1 | 📅 2026-10-08 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 779 | 🐛 3 | 📅 2026-09-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-10-06 - Open-source scalable load testing framework written in Python.
@@ -486,4 +486,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
