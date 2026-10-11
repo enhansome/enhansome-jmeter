@@ -203,7 +203,7 @@
                 "open_issues": 1,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13564,
+                "stars": 13565,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1925,8 +1925,8 @@
                 "id": 258314536,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2025-04-17T20:02:29Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-10T18:34:53Z",
+                "open_issues": 22,
                 "owner": "Blazemeter",
                 "repo": "CorrelationRecorder",
                 "stars": 28,
@@ -2123,10 +2123,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-08T08:47:08Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2384,
+                "stars": 2386,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2182,8 +2182,8 @@
                 "id": 236692087,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-30T14:34:21Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-11T04:03:00Z",
+                "open_issues": 4,
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 779,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:33:53.717Z",
+    "last_updated": "2026-10-11T10:46:37.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
