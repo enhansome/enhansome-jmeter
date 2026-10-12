@@ -19,7 +19,7 @@
             "open_issues": 978,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9559,
+            "stars": 9561,
             "topics": [
               "java",
               "performance",
@@ -104,7 +104,7 @@
                 "id": 295720674,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T17:35:45Z",
+                "last_commit": "2026-10-12T06:45:48Z",
                 "open_issues": 18,
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
@@ -203,7 +203,7 @@
                 "open_issues": 1,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13565,
+                "stars": 13569,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -442,8 +442,8 @@
                 "id": 188503048,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-07-04T15:49:32Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-12T11:10:40Z",
+                "open_issues": 4,
                 "owner": "sercheo87",
                 "repo": "convert-postman-jmeter",
                 "stars": 14,
@@ -2123,10 +2123,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-08T08:47:08Z",
-                "open_issues": 5,
+                "open_issues": 8,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2386,
+                "stars": 2389,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:46:37.507Z",
+    "last_updated": "2026-10-12T11:53:15.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
