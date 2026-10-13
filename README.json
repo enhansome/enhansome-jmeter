@@ -19,7 +19,7 @@
             "open_issues": 978,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9561,
+            "stars": 9562,
             "topics": [
               "java",
               "performance",
@@ -104,7 +104,7 @@
                 "id": 295720674,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T06:45:48Z",
+                "last_commit": "2026-10-13T05:14:51Z",
                 "open_issues": 18,
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
@@ -203,7 +203,7 @@
                 "open_issues": 1,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13569,
+                "stars": 13571,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -273,8 +273,8 @@
                 "id": 83051347,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T14:55:49Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-13T10:19:46Z",
+                "open_issues": 14,
                 "owner": "innogames",
                 "repo": "ltc",
                 "stars": 203,
@@ -2123,10 +2123,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-08T08:47:08Z",
-                "open_issues": 8,
+                "open_issues": 12,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2389,
+                "stars": 2391,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T11:53:15.405Z",
+    "last_updated": "2026-10-13T11:42:22.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
