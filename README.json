@@ -19,7 +19,7 @@
             "open_issues": 978,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9565,
+            "stars": 9564,
             "topics": [
               "java",
               "performance",
@@ -1832,7 +1832,7 @@
                 "open_issues": 20,
                 "owner": "thubbo",
                 "repo": "jmeter-plugins-for-apache-dubbo",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "dubbo",
                   "jmeter",
@@ -1925,7 +1925,7 @@
                 "id": 258314536,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T18:34:53Z",
+                "last_commit": "2026-10-16T01:50:13Z",
                 "open_issues": 22,
                 "owner": "Blazemeter",
                 "repo": "CorrelationRecorder",
@@ -2123,7 +2123,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-08T08:47:08Z",
-                "open_issues": 16,
+                "open_issues": 18,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2391,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:06:27.937Z",
+    "last_updated": "2026-10-16T08:58:43.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",

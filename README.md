@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,193 | 🐛 105 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,662 | 🐛 105 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,565 | 🐛 978 | 🌐 Java | 📅 2026-10-01 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,564 | 🐛 978 | 🌐 Java | 📅 2026-10-01 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -315,7 +315,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### RPC Frameworks
 
-* [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) ⭐ 568 | 🐛 20 | 🌐 Java | 📅 2023-09-21 - JMeter plugin for Apache Dubbo.
+* [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) ⭐ 569 | 🐛 20 | 🌐 Java | 📅 2023-09-21 - JMeter plugin for Apache Dubbo.
 * [JMeter gRPC Request](https://github.com/zalopay-oss/jmeter-grpc-request) ⚠️ Archived - JMeter sampler to send an gRPC request to a server.
 * [JMeter gRPC Plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) ⭐ 44 | 🐛 12 | 🌐 Java | 📅 2023-06-14 - JMeter plugin supports load test gRPC.
 
@@ -335,7 +335,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) ⭐ 28 | 🐛 22 | 🌐 Java | 📅 2026-10-10 - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
+* [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) ⭐ 28 | 🐛 22 | 🌐 Java | 📅 2026-10-16 - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
 * [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-01-26 - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time ❄️.
 * [ULP Auto-correlator Plugin](https://ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
 
@@ -468,7 +468,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,391 | 🐛 16 | 📅 2026-10-08 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,391 | 🐛 18 | 📅 2026-10-08 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 780 | 🐛 4 | 📅 2026-10-11 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-10-06 - Open-source scalable load testing framework written in Python.
@@ -486,4 +486,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
