@@ -19,7 +19,7 @@
             "open_issues": 983,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9574,
+            "stars": 9576,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13587,
+                "stars": 13588,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1762,8 +1762,8 @@
                 "id": 177640058,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T00:33:54Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-23T18:09:36Z",
+                "open_issues": 15,
                 "owner": "Blazemeter",
                 "repo": "HLSPlugin",
                 "stars": 52,
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-22T17:13:27Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-23T19:06:05Z",
+                "open_issues": 0,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2396,
+                "stars": 2398,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2340,7 +2340,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-31T14:13:02Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aliesbelik",
                 "repo": "how-they-load",
                 "stars": 168,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:18:08.804Z",
+    "last_updated": "2026-10-24T08:50:11.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
