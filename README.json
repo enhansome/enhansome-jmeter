@@ -15,8 +15,8 @@
             "id": 688352,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T15:38:08Z",
-            "open_issues": 984,
+            "last_commit": "2026-10-25T13:29:38Z",
+            "open_issues": 992,
             "owner": "apache",
             "repo": "jmeter",
             "stars": 9575,
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13590,
+                "stars": 13592,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -944,11 +944,11 @@
                 "id": 183593218,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-04-11T08:12:29Z",
+                "last_commit": "2026-10-25T18:08:31Z",
                 "open_issues": 2,
                 "owner": "ludeknovy",
                 "repo": "jtl-reporter",
-                "stars": 152,
+                "stars": 151,
                 "topics": [
                   "comparison",
                   "jmeter",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-25T09:04:58Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-26T09:09:49Z",
+                "open_issues": 1,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2400,
+                "stars": 2401,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:06:34.025Z",
+    "last_updated": "2026-10-26T10:02:22.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
