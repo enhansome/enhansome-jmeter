@@ -19,7 +19,7 @@
             "open_issues": 993,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9576,
+            "stars": 9577,
             "topics": [
               "java",
               "performance",
@@ -199,11 +199,11 @@
                 "id": 237867883,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T08:37:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-28T01:25:23Z",
+                "open_issues": 0,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13592,
+                "stars": 13595,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-26T09:09:49Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-28T09:19:20Z",
+                "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2403,
+                "stars": 2405,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:46:00.000Z",
+    "last_updated": "2026-10-28T10:31:33.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
@@ -2376,7 +2376,7 @@
       "open_issues": 2,
       "owner": "aliesbelik",
       "repo": "awesome-jmeter",
-      "stars": 807,
+      "stars": 808,
       "topics": [
         "apache-jmeter",
         "awesome",
