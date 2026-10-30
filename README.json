@@ -15,8 +15,8 @@
             "id": 688352,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T13:29:38Z",
-            "open_issues": 994,
+            "last_commit": "2026-10-30T08:44:30Z",
+            "open_issues": 991,
             "owner": "apache",
             "repo": "jmeter",
             "stars": 9579,
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13598,
+                "stars": 13597,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1649,7 +1649,7 @@
                     "id": 1208556589,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T16:38:14Z",
+                    "last_commit": "2026-10-30T10:26:33Z",
                     "open_issues": 0,
                     "owner": "perfana",
                     "repo": "perfana-jmeter-timescaledb",
@@ -2122,8 +2122,8 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-28T17:43:50Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-29T23:59:26Z",
+                "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2407,
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:51:19.183Z",
+    "last_updated": "2026-10-30T10:49:47.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",

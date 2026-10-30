@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,527 | 🐛 105 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,098 | 🐛 105 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,579 | 🐛 994 | 🌐 Java | 📅 2026-10-25 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,579 | 🐛 991 | 🌐 Java | 📅 2026-10-30 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -129,7 +129,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,598 | 🐛 2 | 🌐 Java | 📅 2026-10-28 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,597 | 🐛 2 | 🌐 Java | 📅 2026-10-28 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 417 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 203 | 🐛 15 | 🌐 Python | 📅 2026-10-22 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -284,7 +284,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 9 | 🌐 Java | 📅 2026-10-26 - Send JMeter test results to Datadog.
   * [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) ⚠️ Archived - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
   * [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) ⭐ 9 | 🐛 8 | 🌐 Java | 📅 2024-04-29 - A JMeter plugin to send test results to New Relic Metrics API.
-  * [perfana-jmeter-timescaledb](https://github.com/perfana/perfana-jmeter-timescaledb) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-28 - JMeter backend listener plugin that writes test results directly to TimescaleDB for real-time performance analysis.
+  * [perfana-jmeter-timescaledb](https://github.com/perfana/perfana-jmeter-timescaledb) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-30 - JMeter backend listener plugin that writes test results directly to TimescaleDB for real-time performance analysis.
   * [jmeter-listener](https://gitlab.com/testload/jmeter-listener) - JMeter plugin to write load test data on-the-fly to ClickHouse, InfluxDB, Elasticsearch.
 * AWS CloudWatch
   * [jmeter-cw-logs](https://github.com/concurrencylabs/jmeter-cw-logs) ⭐ 10 | 🐛 1 | 📅 2016-10-20 - CloudFormation template for publishing JMeter test results to AWS CloudWatch Logs.
@@ -468,7 +468,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,407 | 🐛 3 | 📅 2026-10-28 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,407 | 🐛 2 | 📅 2026-10-29 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 782 | 🐛 5 | 📅 2026-10-11 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-10-06 - Open-source scalable load testing framework written in Python.
@@ -486,4 +486,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
