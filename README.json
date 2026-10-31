@@ -19,7 +19,7 @@
             "open_issues": 991,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9579,
+            "stars": 9583,
             "topics": [
               "java",
               "performance",
@@ -104,7 +104,7 @@
                 "id": 295720674,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T13:26:56Z",
+                "last_commit": "2026-10-30T13:04:02Z",
                 "open_issues": 18,
                 "owner": "anasoid",
                 "repo": "jmeter-as-code",
@@ -203,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13597,
+                "stars": 13599,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -1649,7 +1649,7 @@
                     "id": 1208556589,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T10:26:33Z",
+                    "last_commit": "2026-10-30T11:08:44Z",
                     "open_issues": 0,
                     "owner": "perfana",
                     "repo": "perfana-jmeter-timescaledb",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-29T23:59:26Z",
+                "last_commit": "2026-10-30T18:53:31Z",
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2407,
+                "stars": 2408,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2182,11 +2182,11 @@
                 "id": 236692087,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-11T04:03:00Z",
+                "last_commit": "2026-10-30T22:02:37Z",
                 "open_issues": 5,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:49:47.625Z",
+    "last_updated": "2026-10-31T10:20:19.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
