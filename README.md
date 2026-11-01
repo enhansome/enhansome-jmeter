@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,701 | 🐛 105 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,230 | 🐛 105 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,583 | 🐛 991 | 🌐 Java | 📅 2026-10-30 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,584 | 🐛 991 | 🌐 Java | 📅 2026-10-30 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -198,7 +198,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
     * [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) ⭐ 93 | 🐛 0 | 🌐 Shell | 📅 2025-04-24 - JMeter Kubernetes starter kit, with live test reporting, JMeter monitoring, Kubernetes monitoring and mock as a service.
     * [aks\_testing\_fwk](https://github.com/petegrimsdale/aks_testing_fwk) ⭐ 37 | 🐛 1 | 🌐 Shell | 📅 2020-08-24 - AKS-based scalable JMeter test framework with Grafana reporting.
   * Amazon Web Services
-    * [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) ⭐ 461 | 🐛 18 | 🌐 Shell | 📅 2019-06-24 - Automates running Apache JMeter on Amazon EC2.
+    * [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) ⭐ 460 | 🐛 18 | 🌐 Shell | 📅 2019-06-24 - Automates running Apache JMeter on Amazon EC2.
     * [jmeter-ecs](https://github.com/smithmicro/jmeter-ecs) ⭐ 45 | 🐛 16 | 🌐 Shell | 📅 2022-11-22 - JMeter Docker image for distributed testing on EC2 Container Service (ECS).
     * [gee](https://github.com/kowalcj0/gee) ⭐ 16 | 🐛 0 | 🌐 Shell | 📅 2014-01-02 - A modified version of JMeter-EC2 project.
     * [os-jmeter-aws](https://github.com/Aptimyze/os-jmeter-aws) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2017-09-18 - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
@@ -468,12 +468,12 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,408 | 🐛 2 | 📅 2026-10-30 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,409 | 🐛 2 | 📅 2026-10-31 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 783 | 🐛 5 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
-* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-10-06 - Open-source scalable load testing framework written in Python.
+* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 4 | 📅 2026-11-01 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 80 | 🐛 0 | 📅 2026-10-06 - Open-source load and performance testing framework based on Scala, Akka and Netty.
-* [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-10-06 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+* [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 3 | 📅 2026-11-01 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ### Other
 
@@ -486,4 +486,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
