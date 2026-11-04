@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,979 | 🐛 104 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,638 | 🐛 103 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,587 | 🐛 991 | 🌐 Java | 📅 2026-10-30 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,590 | 🐛 991 | 🌐 Java | 📅 2026-11-04 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -129,7 +129,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,606 | 🐛 2 | 🌐 Java | 📅 2026-10-28 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,611 | 🐛 3 | 🌐 Java | 📅 2026-10-28 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 417 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 203 | 🐛 15 | 🌐 Python | 📅 2026-10-22 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -245,8 +245,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   * [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) ⭐ 38 | 🐛 1 | 🌐 HTML | 📅 2021-04-23 - JMeter HTML report generator based on JAMon.
   * [JMeter JUnit Reporter](https://github.com/tilln/jmeter-junit-reporter) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2025-10-03 - Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).
   * Tools to validate results from KPIs:
-    * [JUnit KPI Reporter from JMeter Dashboard Statistics JSON File](https://github.com/vdaburon/JUnitReportKpiJMeterDashboardStats) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2025-04-25 - Tool to generate JUnit Report based on custom KPIs applied to the JMeter Dashboard Statistics JSON file.
-    * [JUnit Report Compare 2 JMeter Report CSV Files](https://github.com/vdaburon/JUnitReportKpiCompareJMeterReportCsv) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2025-04-25 - Tool to compare 2 load tests using JMeter Report CSV files and create a JUnit Report based on custom KPIs.
+    * [JUnit KPI Reporter from JMeter Dashboard Statistics JSON File](https://github.com/vdaburon/JUnitReportKpiJMeterDashboardStats) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-11-04 - Tool to generate JUnit Report based on custom KPIs applied to the JMeter Dashboard Statistics JSON file.
+    * [JUnit Report Compare 2 JMeter Report CSV Files](https://github.com/vdaburon/JUnitReportKpiCompareJMeterReportCsv) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-11-04 - Tool to compare 2 load tests using JMeter Report CSV files and create a JUnit Report based on custom KPIs.
     * [JUnit KPI Reporter from JMeter CSV Report](https://github.com/vdaburon/JUnitReportKpiJMeterReportCsv) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2025-04-25 - Tool to generate JUnit Report based on custom KPIs applied to the JMeter Report CSV file.
 
 ### Reporting & Visualization
@@ -281,7 +281,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   * [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) ⭐ 101 | 🐛 20 | 🌐 Java | 📅 2024-03-11 - JMeter plugin to send test results to an Elasticsearch engine.
   * [jmeter-backend-listener-kafka](https://github.com/veeranalyticsltd/jmeter-backend-listener-kafka) ⭐ 33 | 🐛 6 | 🌐 Java | 📅 2022-05-20 - JMeter plugin to send test results to a Kafka server.
   * [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) ⭐ 32 | 🐛 8 | 🌐 Java | 📅 2023-04-21 - JMeter plugin to send test results to Azure Application Insights.
-  * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 9 | 🌐 Java | 📅 2026-10-26 - Send JMeter test results to Datadog.
+  * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 9 | 🌐 Java | 📅 2026-11-03 - Send JMeter test results to Datadog.
   * [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) ⚠️ Archived - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
   * [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) ⭐ 9 | 🐛 8 | 🌐 Java | 📅 2024-04-29 - A JMeter plugin to send test results to New Relic Metrics API.
   * [perfana-jmeter-timescaledb](https://github.com/perfana/perfana-jmeter-timescaledb) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-30 - JMeter backend listener plugin that writes test results directly to TimescaleDB for real-time performance analysis.
@@ -468,7 +468,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,411 | 🐛 3 | 📅 2026-11-02 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,413 | 🐛 2 | 📅 2026-11-04 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 783 | 🐛 5 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-11-03 - Open-source scalable load testing framework written in Python.
@@ -477,7 +477,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Other
 
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 6 | 📅 2026-09-18 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 7 | 📅 2026-09-18 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 2 | 📅 2026-08-31 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
@@ -486,4 +486,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
