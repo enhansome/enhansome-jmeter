@@ -19,7 +19,7 @@
             "open_issues": 992,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9593,
+            "stars": 9595,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 4,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13613,
+                "stars": 13615,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -273,8 +273,8 @@
                 "id": 83051347,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T14:19:59Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-05T12:29:19Z",
+                "open_issues": 16,
                 "owner": "innogames",
                 "repo": "ltc",
                 "stars": 203,
@@ -719,7 +719,7 @@
                     "id": 292827452,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T17:32:43Z",
+                    "last_commit": "2026-11-06T02:36:58Z",
                     "open_issues": 21,
                     "owner": "hellofresh",
                     "repo": "kangal",
@@ -1470,7 +1470,7 @@
                     "open_issues": 20,
                     "owner": "anthonygauthier",
                     "repo": "jmeter-elasticsearch-backend-listener",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": [
                       "backend",
                       "backend-listener",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-04T21:31:11Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-06T09:16:18Z",
+                "open_issues": 3,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2412,
+                "stars": 2413,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2186,7 +2186,7 @@
                 "open_issues": 5,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 783,
+                "stars": 784,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:13:33.738Z",
+    "last_updated": "2026-11-06T12:01:41.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
