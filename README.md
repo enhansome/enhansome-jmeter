@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,787 | 🐛 103 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,517 | 🐛 103 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,596 | 🐛 992 | 🌐 Java | 📅 2026-11-05 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,599 | 🐛 992 | 🌐 Java | 📅 2026-11-05 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -129,7 +129,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Frameworks
 
-* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,615 | 🐛 4 | 🌐 Java | 📅 2026-10-28 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+* [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,613 | 🐛 4 | 🌐 Java | 📅 2026-10-28 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 417 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 203 | 🐛 16 | 🌐 Python | 📅 2026-11-05 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
@@ -486,4 +486,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
