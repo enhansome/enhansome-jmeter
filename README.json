@@ -16,7 +16,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T09:30:14Z",
-            "open_issues": 993,
+            "open_issues": 992,
             "owner": "apache",
             "repo": "jmeter",
             "stars": 9600,
@@ -203,7 +203,7 @@
                 "open_issues": 5,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13619,
+                "stars": 13622,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -486,7 +486,7 @@
                 "open_issues": 21,
                 "owner": "jmeter-maven-plugin",
                 "repo": "jmeter-maven-plugin",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "continuous-integration",
                   "java",
@@ -719,7 +719,7 @@
                     "id": 292827452,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T02:36:58Z",
+                    "last_commit": "2026-11-09T14:22:01Z",
                     "open_issues": 21,
                     "owner": "hellofresh",
                     "repo": "kangal",
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-09T03:49:38Z",
+                "last_commit": "2026-11-10T09:06:37Z",
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2415,
+                "stars": 2417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:46:13.430Z",
+    "last_updated": "2026-11-10T12:32:40.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
@@ -2372,11 +2372,11 @@
       "id": 37666064,
       "language": "HTML",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-01T02:02:45Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-10T00:54:27Z",
+      "open_issues": 0,
       "owner": "aliesbelik",
       "repo": "awesome-jmeter",
-      "stars": 808,
+      "stars": 809,
       "topics": [
         "apache-jmeter",
         "awesome",
@@ -2388,7 +2388,7 @@
         "performance-testing"
       ]
     },
-    "original_repository_sha": "5b3c935a1bd904afbe95daeca3b0905be617d4a6",
+    "original_repository_sha": "e017b86c2a0253ff508b3b643f21dbab2f06c5b9",
     "enhanced_repository": "enhansome/enhansome-jmeter",
     "enhanced_repository_description": null,
     "title": "Awesome JMeter with stars"
