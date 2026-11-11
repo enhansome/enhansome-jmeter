@@ -19,7 +19,7 @@
             "open_issues": 992,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9600,
+            "stars": 9602,
             "topics": [
               "java",
               "performance",
@@ -200,10 +200,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T02:19:38Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13622,
+                "stars": 13627,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -236,7 +236,7 @@
                 "open_issues": 14,
                 "owner": "serputko",
                 "repo": "performance-testing-framework",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "backend-load-testing",
                   "docker",
@@ -1198,8 +1198,8 @@
                     "id": 233918880,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T02:20:33Z",
-                    "open_issues": 77,
+                    "last_commit": "2026-11-10T22:00:59Z",
+                    "open_issues": 76,
                     "owner": "influxdata",
                     "repo": "community-templates",
                     "stars": 377,
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-10T09:06:37Z",
+                "last_commit": "2026-11-11T09:36:49Z",
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2417,
+                "stars": 2418,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:32:40.430Z",
+    "last_updated": "2026-11-11T11:49:28.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
