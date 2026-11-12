@@ -19,7 +19,7 @@
             "open_issues": 992,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9602,
+            "stars": 9603,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 7,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13627,
+                "stars": 13629,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -2126,7 +2126,7 @@
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2418,
+                "stars": 2420,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321,
+                "stars": 2322,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2186,7 +2186,7 @@
                 "open_issues": 6,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2243,7 +2243,7 @@
                 "id": 216829747,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-02T01:47:38Z",
+                "last_commit": "2026-11-12T04:25:54Z",
                 "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-gatling",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:49:28.933Z",
+    "last_updated": "2026-11-12T12:36:06.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
@@ -2376,7 +2376,7 @@
       "open_issues": 0,
       "owner": "aliesbelik",
       "repo": "awesome-jmeter",
-      "stars": 809,
+      "stars": 810,
       "topics": [
         "apache-jmeter",
         "awesome",
