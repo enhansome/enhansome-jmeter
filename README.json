@@ -19,7 +19,7 @@
             "open_issues": 994,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9603,
+            "stars": 9605,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 7,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13630,
+                "stars": 13632,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -2126,7 +2126,7 @@
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2421,
+                "stars": 2420,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2322,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2314,7 +2314,7 @@
                 "open_issues": 7,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 253,
+                "stars": 252,
                 "topics": [
                   "benchmarking",
                   "ddos",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:07:17.790Z",
+    "last_updated": "2026-11-14T11:24:40.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
