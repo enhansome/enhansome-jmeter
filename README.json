@@ -19,7 +19,7 @@
             "open_issues": 996,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9604,
+            "stars": 9606,
             "topics": [
               "java",
               "performance",
@@ -203,7 +203,7 @@
                 "open_issues": 7,
                 "owner": "metersphere",
                 "repo": "metersphere",
-                "stars": 13635,
+                "stars": 13637,
                 "topics": [
                   "api-testing",
                   "continuous-testing",
@@ -802,7 +802,7 @@
                     "open_issues": 18,
                     "owner": "oliverlloyd",
                     "repo": "jmeter-ec2",
-                    "stars": 460,
+                    "stars": 461,
                     "topics": [
                       "aws",
                       "cloud",
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321,
+                "stars": 2322,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -2183,10 +2183,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-30T22:02:37Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 786,
+                "stars": 787,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:40:10.756Z",
+    "last_updated": "2026-11-17T13:14:13.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
