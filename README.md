@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,282 | 🐛 104 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,780 | 🐛 103 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,611 | 🐛 995 | 🌐 Java | 📅 2026-11-05 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,610 | 🐛 996 | 🌐 Java | 📅 2026-11-05 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -131,7 +131,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Frameworks
 
 * [MeterSphere](https://github.com/metersphere/metersphere) ⭐ 13,647 | 🐛 6 | 🌐 Java | 📅 2026-11-09 - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
-* [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 418 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+* [Performance testing framework](https://github.com/serputko/performance-testing-framework) ⭐ 417 | 🐛 14 | 🌐 JavaScript | 📅 2023-12-19 - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 * [JMeter Load Testing Center](https://github.com/innogames/ltc) ⭐ 203 | 🐛 16 | 🌐 Python | 📅 2026-11-05 - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 * [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 * [Carrier](https://github.com/carrier-io) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
@@ -149,7 +149,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Tools & Plugins
 
-* [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) ⭐ 440 | 🐛 21 | 🌐 Java | 📅 2025-01-03 - Maven plugin that provides the ability to run JMeter tests as part of the build.
+* [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) ⭐ 439 | 🐛 21 | 🌐 Java | 📅 2025-01-03 - Maven plugin that provides the ability to run JMeter tests as part of the build.
 * [JMeter Gradle Plugin](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) ⭐ 51 | 🐛 43 | 🌐 Groovy | 📅 2020-11-25 - Gradle plugin to execute JMeter tests.
 * [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) ⭐ 27 | 🐛 1 | 🌐 XSLT | 📅 2017-07-01 - Ant task to automate running JMeter test plans.
 * [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) ⭐ 21 | 🐛 25 | 🌐 JavaScript | 📅 2017-07-25 - TeamCity plugin to organize simplest performance testing in CI 💀.
@@ -199,7 +199,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
     * [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) ⭐ 93 | 🐛 0 | 🌐 Shell | 📅 2025-04-24 - JMeter Kubernetes starter kit, with live test reporting, JMeter monitoring, Kubernetes monitoring and mock as a service.
     * [aks\_testing\_fwk](https://github.com/petegrimsdale/aks_testing_fwk) ⭐ 37 | 🐛 1 | 🌐 Shell | 📅 2020-08-24 - AKS-based scalable JMeter test framework with Grafana reporting.
   * Amazon Web Services
-    * [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) ⭐ 461 | 🐛 18 | 🌐 Shell | 📅 2019-06-24 - Automates running Apache JMeter on Amazon EC2.
+    * [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) ⭐ 458 | 🐛 18 | 🌐 Shell | 📅 2019-06-24 - Automates running Apache JMeter on Amazon EC2.
     * [jmeter-ecs](https://github.com/smithmicro/jmeter-ecs) ⭐ 45 | 🐛 16 | 🌐 Shell | 📅 2022-11-22 - JMeter Docker image for distributed testing on EC2 Container Service (ECS).
     * [gee](https://github.com/kowalcj0/gee) ⭐ 16 | 🐛 0 | 🌐 Shell | 📅 2014-01-02 - A modified version of JMeter-EC2 project.
     * [os-jmeter-aws](https://github.com/Aptimyze/os-jmeter-aws) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2017-09-18 - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
@@ -279,7 +279,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   * [jmeter-clickhouse-listener](https://gitlab.com/testload-group/jmeter-clickhouse-listener) - JMeter plugin allows to write load test data on-the-fly to ClickHouse.
 * Backend Listener Implementations
   * [jmeter-influxdb2-listener-plugin](https://github.com/mderevyankoaqa/jmeter-influxdb2-listener-plugin) ⭐ 133 | 🐛 54 | 🌐 Java | 📅 2024-08-09 - InfluxDB v2.0 listener plugin for Apache JMeter.
-  * [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) ⭐ 102 | 🐛 20 | 🌐 Java | 📅 2024-03-11 - JMeter plugin to send test results to an Elasticsearch engine.
+  * [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) ⭐ 102 | 🐛 19 | 🌐 Java | 📅 2024-03-11 - JMeter plugin to send test results to an Elasticsearch engine.
   * [jmeter-backend-listener-kafka](https://github.com/veeranalyticsltd/jmeter-backend-listener-kafka) ⭐ 33 | 🐛 6 | 🌐 Java | 📅 2022-05-20 - JMeter plugin to send test results to a Kafka server.
   * [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) ⭐ 32 | 🐛 8 | 🌐 Java | 📅 2023-04-21 - JMeter plugin to send test results to Azure Application Insights.
   * [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) ⭐ 13 | 🐛 9 | 🌐 Java | 📅 2026-11-03 - Send JMeter test results to Datadog.
@@ -469,9 +469,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,424 | 🐛 3 | 📅 2026-11-17 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,424 | 🐛 3 | 📅 2026-11-20 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,323 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 788 | 🐛 5 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 788 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-11-03 - Open-source scalable load testing framework written in Python.
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) ⭐ 80 | 🐛 0 | 📅 2026-11-12 - Open-source load and performance testing framework based on Scala, Akka and Netty.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-11-15 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
@@ -487,4 +487,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
