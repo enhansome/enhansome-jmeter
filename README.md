@@ -14,7 +14,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,624 | 🐛 103 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,131 | 🐛 103 | 📅 2026-09-02 project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -72,7 +72,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,613 | 🐛 998 | 🌐 Java | 📅 2026-11-21 - Apache JMeter source code repository.
+* [GitHub Repository](https://github.com/apache/jmeter) ⭐ 9,616 | 🐛 997 | 🌐 Java | 📅 2026-11-25 - Apache JMeter source code repository.
 * [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 * [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 * [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
@@ -195,7 +195,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 * Testing in Cloud
   * Kubernetes
     * [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) ⭐ 365 | 🐛 22 | 🌐 Shell | 📅 2024-04-30 - JMeter cluster support for Kubernetes and OpenShift.
-    * [kangal](https://github.com/hellofresh/kangal) ⭐ 173 | 🐛 21 | 🌐 Go | 📅 2026-11-12 - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
+    * [kangal](https://github.com/hellofresh/kangal) ⭐ 173 | 🐛 22 | 🌐 Go | 📅 2026-11-26 - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
     * [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) ⭐ 93 | 🐛 0 | 🌐 Shell | 📅 2025-04-24 - JMeter Kubernetes starter kit, with live test reporting, JMeter monitoring, Kubernetes monitoring and mock as a service.
     * [aks\_testing\_fwk](https://github.com/petegrimsdale/aks_testing_fwk) ⭐ 37 | 🐛 1 | 🌐 Shell | 📅 2020-08-24 - AKS-based scalable JMeter test framework with Grafana reporting.
   * Amazon Web Services
@@ -231,7 +231,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2026-10-25 - Online reporting application to generate reports by uploading JTL file.
+* [JtlReporter](https://github.com/ludeknovy/jtl-reporter) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2026-11-26 - Online reporting application to generate reports by uploading JTL file.
 * [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) ⚠️ Archived - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 * [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2024-06-07 - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); usually used along with the [JMeter Maven Plugin](#tools--plugins) and  set of [companion plugins](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin#compagnion-tools) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2024-06-07.
 * [JMeter Log Analysis](https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis) - Suggestions and recipes for JMeter log analysis.
@@ -336,7 +336,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 
-* [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) ⭐ 28 | 🐛 22 | 🌐 Java | 📅 2026-10-16 - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
+* [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) ⭐ 28 | 🐛 24 | 🌐 Java | 📅 2026-11-26 - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
 * [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-01-26 - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time ❄️.
 * [ULP Auto-correlator Plugin](https://ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
 
@@ -469,7 +469,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,430 | 🐛 18 | 📅 2026-11-21 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,432 | 🐛 3 | 📅 2026-11-26 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,325 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 788 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-11-03 - Open-source scalable load testing framework written in Python.
@@ -487,4 +487,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
