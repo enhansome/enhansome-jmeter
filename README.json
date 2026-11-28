@@ -16,7 +16,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T21:40:00Z",
-            "open_issues": 997,
+            "open_issues": 995,
             "owner": "apache",
             "repo": "jmeter",
             "stars": 9616,
@@ -802,7 +802,7 @@
                     "open_issues": 18,
                     "owner": "oliverlloyd",
                     "repo": "jmeter-ec2",
-                    "stars": 458,
+                    "stars": 457,
                     "topics": [
                       "aws",
                       "cloud",
@@ -1925,8 +1925,8 @@
                 "id": 258314536,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-27T12:42:13Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-27T16:57:10Z",
+                "open_issues": 16,
                 "owner": "Blazemeter",
                 "repo": "CorrelationRecorder",
                 "stars": 28,
@@ -2122,11 +2122,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-27T00:36:09Z",
+                "last_commit": "2026-11-27T22:51:15Z",
                 "open_issues": 3,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2433,
+                "stars": 2434,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2364,7 +2364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:46:44.709Z",
+    "last_updated": "2026-11-28T12:55:00.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of JMeter usage.",
